@@ -1,0 +1,7 @@
+{
+  "name": "Imam Malik BG Remover",
+  "description": "A powerful mobile-first image editing tool powered by Google Gemini. Remove backgrounds, analyze images, and chat with an AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
